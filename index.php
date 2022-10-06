@@ -1,4 +1,8 @@
 <?php
+	/*
+		Auteur : AWADEME FINANFA Ronaldo
+		Email: awademeronaldoo@gmail.com
+	*/
 	session_start();
 	if(isset($_POST['code']) && $_POST['code'] == $_SESSION['code'])
 		{
