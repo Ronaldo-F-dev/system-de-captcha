@@ -1,0 +1,18 @@
+#envoyer{
+	margin: 5px;
+}
+.main{
+	position: absolute;
+	left: 30%;
+	right: 30%;
+	top: 10%;
+	border: 1px solid #000;
+}
+.title{
+	font-weight: bold;
+	font-family: "Algerian","Arial";
+}
+.main form{
+	margin: 10px;
+	padding: 10px;
+}
